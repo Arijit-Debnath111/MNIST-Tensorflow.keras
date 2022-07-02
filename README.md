@@ -7,3 +7,4 @@ For this hands on I performed-
                              2> Model Definition
                              3> Model Compilation
                              4> Model Training
+The output and predictions are evaluated from the models.
